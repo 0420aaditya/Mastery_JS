@@ -33,7 +33,7 @@ const arraySlice = array1.slice(2, 4); //return the range from the starting inde
 console.log("Original-A:", array1);
 console.log("Slice: ", arraySlice);
 console.log("Original_AfterSlice-B:", array1);
-const arraySplice = array1.splice(2, 4); //retuens section of 4 elements starting from index 2
+const arraySplice = array1.splice(2, 4); //returns section of 4 elements starting from index 2
 console.log("Splice: ", arraySplice);
 console.log("Original_AfterSplice-C:", array1);
 console.log("#######################");
