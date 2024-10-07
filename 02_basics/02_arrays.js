@@ -25,4 +25,4 @@ let n1 = 100;
 let n2 = 200;
 let n3 = 300;
 
-console.log(Array.of(n1, n2, n3)); //of returns a new array from the set of elements that may be obj,variable or anything else
+console.log(Array.of(n1, n2, n3)); //of returns a new array from the set of elements that may be obj,variable or anything Else
