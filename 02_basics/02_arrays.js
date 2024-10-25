@@ -19,10 +19,10 @@ console.log(simplified_next_array);
 
 console.log(Array.isArray("Addy")); //is there array like this? Output:false
 console.log(Array.from("Addy")); //convert the string 'Addy' into array
-console.log(Array.from({ name: "Addy" })); //object can also be convertino array but need to be specified that either we want arrray of key or the value
+console.log(Array.from({ name: "Addy" })); //object can also be convert into array but need to be specified that either we want arrray of key or the value
 
+let n3 = 300;
 let n1 = 100;
 let n2 = 200;
-let n3 = 300;
 
 console.log(Array.of(n1, n2, n3)); //of returns a new array from the set of elements that may be obj,variable or anything Else
